@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Signifier";
+  src: url("Signifier-Regular.woff2") format("woff2"),
+    url("Signifier-Regular.otf") format("opentype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Signifier";
+  src: url("Signifier-Light.woff2") format("woff2"),
+    url("Signifier-Light.otf") format("opentype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Signifier";
+  src: url("Signifier-Medium.woff2") format("woff2"),
+    url("Signifier-Medium.otf") format("opentype");
+  font-weight: 500;
+}

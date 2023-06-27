@@ -1,0 +1,32 @@
+[
+    {
+        "title" : "Theme Development",
+        "description" : "The dolor sit amet consectetur. Ornare lectus quis commodo quisque amet quis sed eu. Mauris tellus placerat tellus and placerat. Libero pharetra egestas elit pellentesque the new nisl praesent at. Velit vel egestas ultricies egestas.",
+        "src" : "svg/th.svg"
+    },
+    {
+        "title" : "Shopify Plus",
+        "description" : "The dolor sit amet consectetur. Ornare lectus quis commodo quisque amet quis sed eu. Mauris tellus placerat tellus and placerat. Libero pharetra egestas elit pellentesque the new nisl praesent at. Velit vel egestas ultricies egestas.",
+        "src" : "svg/circle-plus.svg"
+    },
+    {
+        "title" : "Shopify Support",
+        "description" : "The dolor sit amet consectetur. Ornare lectus quis commodo quisque amet quis sed eu. Mauris tellus placerat tellus and placerat. Libero pharetra egestas elit pellentesque the new nisl praesent at. Velit vel egestas ultricies egestas.",
+        "src" : "svg/user.svg"
+    },
+    {
+        "title" : "Consultation",
+        "description" : "The dolor sit amet consectetur. Ornare lectus quis commodo quisque amet quis sed eu. Mauris tellus placerat tellus and placerat. Libero pharetra egestas elit pellentesque the new nisl praesent at. Velit vel egestas ultricies egestas.",
+        "src" : "svg/tv.svg"
+    },
+    {
+        "title" : "Shopify Migration",
+        "description" : "The dolor sit amet consectetur. Ornare lectus quis commodo quisque amet quis sed eu. Mauris tellus placerat tellus and placerat. Libero pharetra egestas elit pellentesque the new nisl praesent at. Velit vel egestas ultricies egestas.",
+        "src" : "svg/upload.svg"
+    },
+    {
+        "title" : "Shopify Setup",
+        "description" : "The dolor sit amet consectetur. Ornare lectus quis commodo quisque amet quis sed eu. Mauris tellus placerat tellus and placerat. Libero pharetra egestas elit pellentesque the new nisl praesent at. Velit vel egestas ultricies egestas.",
+        "src" : "svg/setup.svg"
+    }
+]

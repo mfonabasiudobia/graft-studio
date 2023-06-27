@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "A sophisticated <i>e-commerce</i> and <i>migration</i> to Shopify 2.0 for Intelligent Change", 
+        "src" : "/images/blog/blog1.png",
+        "link" : "/blog/a-sophisticated-ecommerce-and-migration",
+        "date" : "UPDATE, may 2023"
+    },
+    {
+        "title" : "The latest <i>updates</i> on amet consectetur and aenean duis consequat <i>dictumst</i> purus.", 
+        "src" : "/images/blog/blog2.png",
+        "link" : "/blog/the-latest-updates-on-amet-consecteur-and-aenean-duis",
+        "date" : "TECHNOLOGY, may 2023"
+    },
+    {
+        "title" : "The latest <i>updates</i> on amet consectetur and aenean duis consequat <i>dictumst</i> purus.", 
+        "src" : "/images/blog/blog3.png",
+        "link" : "/blog/the-latest-updates-on-amet-consecteur-and-aenean-duis",
+        "date" : "UPDATE, may 2023"
+    }
+]

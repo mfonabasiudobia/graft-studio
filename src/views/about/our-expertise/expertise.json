@@ -1,0 +1,17 @@
+[
+    {
+        "title" : "01  Experience",
+        "description" : "The dolor sit amet consectetur. Ornare lectus quis commodo quisque amet quis sed eu. Mauris tellus placerat tellus and placerat. Libero pharetra egestas elit pellentesque the new nisl praesent at. Velit vel egestas ultricies egestas.",
+        "src" : "svg/experience.svg"
+    },
+    {
+        "title" : "02  Performance",
+        "description" : "The dolor sit amet consectetur. Ornare lectus quis commodo quisque amet quis sed eu. Mauris tellus placerat tellus and placerat. Libero pharetra egestas elit pellentesque the new nisl praesent at. Velit vel egestas ultricies egestas.",
+        "src" : "svg/performance.svg"
+    },
+    {
+        "title" : "03  Strategy",
+        "description" : "The dolor sit amet consectetur. Ornare lectus quis commodo quisque amet quis sed eu. Mauris tellus placerat tellus and placerat. Libero pharetra egestas elit pellentesque the new nisl praesent at. Velit vel egestas ultricies egestas.",
+        "src" : "svg/strategy.svg"
+    }
+]
